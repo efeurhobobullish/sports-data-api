@@ -26,7 +26,7 @@ A RESTful API built with Node.js and Express that provides real-time football/so
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/A-Y-A-N-O-K-O-J-I/sports-data-api.git
 cd sports-data-api
 ```
 
